@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Handlebars</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/handlebars-v4.0.11.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- code goes here -->
+    </div>
+
+
+
+    <script id="template" type="text/x-handlebars-template">
+        
+
+        {{#each names}}
+            <div>
+                <p>{{formatName name age}}</p>
+                <p>{{formatAnotherName name age}}</p>
+                {{#if num}}<p>Phone {{formatNumber num}}</p>{{/if}}
+                <p>Italics: {{#makeBold}} {{name}} {{/makeBold}}</p>
+                <p>To Lower: {{#toLower}} {{name}} {{/toLower}}</p>
+                <p>To Upper: {{#toUpper}} {{name}} {{/toUpper}}</p>
+
+            </div>
+            <hr>
+        {{/each}}
+        
+    </script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
