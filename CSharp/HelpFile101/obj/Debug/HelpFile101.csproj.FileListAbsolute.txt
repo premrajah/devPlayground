@@ -1,0 +1,16 @@
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\bin\Debug\HelpFile101.exe.config
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\bin\Debug\HelpFile101.exe
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\bin\Debug\HelpFile101.pdb
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.csprojResolveAssemblyReference.cache
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\MainWindow.g.cs
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\App.g.cs
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101_MarkupCompile.cache
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101_MarkupCompile.lref
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\MainWindow.baml
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.g.resources
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.Properties.Resources.resources
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.csproj.GenerateResource.Cache
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.csproj.CoreCompileInputs.cache
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.exe
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\HelpFile101.pdb
+C:\Users\Zinox\Documents\Visual Studio 2017\Projects\_ct\HelpFile101\obj\Debug\GeneratedInternalTypeHelper.g.cs
